@@ -26,6 +26,4 @@ You can add options to executable code like this
 
 The `echo: false` option disables the printing of code (only output is displayed).
 
-## Noé 
-
-Hello leo paul how are you ? ?? ????
+## Tout clean
